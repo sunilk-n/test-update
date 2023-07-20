@@ -1,0 +1,4 @@
+{
+  "maya": "path\\to\\maya\\executable",
+  "nuke": "Path\\to\\nuke\\executable"
+}
